@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/devicekit/DeviceKit/commit/fab82bd988405367c915143e293479f481e93ba0",
       "git:hexsha": "fab82bd988405367c915143e293479f481e93ba0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "5.10.0"
     },
     {
