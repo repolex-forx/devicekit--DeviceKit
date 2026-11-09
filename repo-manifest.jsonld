@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/devicekit/DeviceKit/commit/fab82bd988405367c915143e293479f481e93ba0",
       "git:hexsha": "fab82bd988405367c915143e293479f481e93ba0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "5.10.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "5.10.0",
+      "repolex:parsedAt": "2026-11-09T22:26:11.532791+00:00"
     },
     {
       "@id": "https://repolex.ai/r/devicekit/DeviceKit/commit/1ea2778a494a9c12ea2c73335ebe60cfa019c153",
