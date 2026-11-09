@@ -1,0 +1,11 @@
+{
+  "org": "devicekit",
+  "repo": "DeviceKit",
+  "versions": [
+    {
+      "commit": "fab82bd988405367c915143e293479f481e93ba0",
+      "tag": "5.10.0",
+      "parsed_at": "2026-11-09T22:26:11.533531+00:00"
+    }
+  ]
+}
